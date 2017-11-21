@@ -10,3 +10,21 @@ checkout = git clone 'git@github.com:mans0954/docker-midpoint.git' 'docker-midpo
 
 [docker-sphinx]
 checkout = git clone 'git@github.com:mans0954/docker-sphinx.git' 'docker-sphinx'
+
+[docker-wordpress]
+checkout = git clone 'git@github.com:mans0954/docker-wordpress.git' 'docker-wordpress'
+
+[docker-kerberos]
+checkout = git clone 'git@github.com:mans0954/docker-kerberos.git' 'docker-kerberos'
+
+[docker-dutton-idm]
+checkout = git clone 'git@github.com:mans0954/docker-dutton-idm.git' 'docker-dutton-idm'
+
+[docker-syncope-deb]
+checkout = git clone 'git@github.com:mans0954/docker-syncope-deb.git' 'docker-syncope-deb'
+
+[docker-essential-architecture]
+checkout = git clone 'git@github.com:mans0954/docker-essential-architecture.git' 'docker-essential-architecture'
+
+[docker-connid-connector-server]
+checkout = git clone 'git@github.com:mans0954/docker-connid-connector-server.git' 'docker-connid-connector-server'
