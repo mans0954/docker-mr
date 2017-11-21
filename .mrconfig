@@ -1,0 +1,12 @@
+
+[docker-comanage]
+checkout = git clone 'git@github.com:mans0954/docker-comanage.git' 'docker-comanage'
+
+[docker-firefox]
+checkout = git clone 'git@github.com:mans0954/docker-firefox.git' 'docker-firefox'
+
+[docker-midpoint]
+checkout = git clone 'git@github.com:mans0954/docker-midpoint.git' 'docker-midpoint'
+
+[docker-sphinx]
+checkout = git clone 'git@github.com:mans0954/docker-sphinx.git' 'docker-sphinx'
