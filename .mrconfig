@@ -29,8 +29,11 @@ checkout = git clone 'git@github.com:mans0954/docker-essential-architecture.git'
 [docker-connid-connector-server]
 checkout = git clone 'git@github.com:mans0954/docker-connid-connector-server.git' 'docker-connid-connector-server'
 
+[tier-idp]
+checkout = git clone 'git@github.com:mans0954/tier-idp.git' 'tier-idp'
+
 [docker-nscp]
 checkout = git clone 'git@github.com:mans0954/docker-nscp' 'docker-nscp'
 
 [debian-java]
-checkout = git clone 'git@github.com:mans0954/docker-debian-java' 'debian-java'
+checkout = git clone 'git@github.com:mans0954/docker-debian-java.git' 'debian-java'
