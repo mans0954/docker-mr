@@ -31,3 +31,6 @@ checkout = git clone 'git@github.com:mans0954/docker-connid-connector-server.git
 
 [docker-nscp]
 checkout = git clone 'git@github.com:mans0954/docker-nscp' 'docker-nscp'
+
+[debian-java]
+checkout = git clone 'git@github.com:mans0954/docker-debian-java' 'debian-java'
